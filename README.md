@@ -1,2 +1,1 @@
-# smartstudy_02
-一个智能学习助手项目，提供个性化学习推荐和进度管理
+<img width="986" height="648" alt="image" src="https://github.com/user-attachments/assets/0102a87f-18da-4a9c-b9de-d151f78988f2" />
